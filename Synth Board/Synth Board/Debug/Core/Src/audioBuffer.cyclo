@@ -1,0 +1,17 @@
+C:\ST\STM32CubeIDE_1.14.1\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.100.202309141235\tools\arm-none-eabi\include\c++\11.3.1\bits\stl_algobase.h:1004:3:constexpr int std::__size_to_integer(int)	1
+../Core/Inc/Synthesizer.hpp:15:17:int16_t Synthesizer::generateSineWave(uint16_t, uint8_t)	2
+../Core/Inc/Synthesizer.hpp:24:17:int16_t Synthesizer::generateSquareWave(uint16_t, uint8_t)	3
+../Core/Inc/Synthesizer.hpp:35:17:int16_t Synthesizer::generateSawtoothWave(uint16_t, uint8_t)	2
+../Core/Inc/Synthesizer.hpp:45:17:int16_t Synthesizer::generateTriangleWave(uint16_t, uint8_t)	4
+../Core/Inc/Oscillator.hpp:45:14:void Oscillator::nextSample(int16_t (&)[16])	7
+../Core/Inc/LowPassFilter.hpp:13:17:int16_t LowPassFilter::process(int16_t)	1
+../Core/Inc/ADSREnvelope.hpp:15:14:void ADSREnvelope::nextSample(uint16_t (&)[16])	18
+../Core/Inc/ADSREnvelope.hpp:83:17:uint8_t ADSREnvelope::getActiveNotesCount() const	1
+C:\ST\STM32CubeIDE_1.14.1\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.100.202309141235\tools\arm-none-eabi\include\c++\11.3.1\bits\stl_algobase.h:1144:5:constexpr _OI std::fill_n(_OI, _Size, const _Tp&) [with _OI = short unsigned int*; _Size = int; _Tp = int]	1
+../Core/Src/audioBuffer.cpp:9:13:void fillAudioBuffer()	5
+../Core/Src/audioBuffer.cpp:46:17:void AUDIO_OUT_HalfTransfer_CallBack()	2
+../Core/Src/audioBuffer.cpp:60:17:void AUDIO_OUT_TransferComplete_CallBack()	2
+C:\ST\STM32CubeIDE_1.14.1\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.100.202309141235\tools\arm-none-eabi\include\c++\11.3.1\bits\stl_iterator_base_types.h:238:5:constexpr typename std::iterator_traits< <template-parameter-1-1> >::iterator_category std::__iterator_category(const _Iter&) [with _Iter = short unsigned int*]	1
+C:\ST\STM32CubeIDE_1.14.1\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.100.202309141235\tools\arm-none-eabi\include\c++\11.3.1\bits\stl_algobase.h:1109:5:constexpr _OutputIterator std::__fill_n_a(_OutputIterator, _Size, const _Tp&, std::random_access_iterator_tag) [with _OutputIterator = short unsigned int*; _Size = int; _Tp = int]	2
+C:\ST\STM32CubeIDE_1.14.1\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.100.202309141235\tools\arm-none-eabi\include\c++\11.3.1\bits\stl_algobase.h:968:5:constexpr void std::__fill_a(_FIte, _FIte, const _Tp&) [with _FIte = short unsigned int*; _Tp = int]	1
+C:\ST\STM32CubeIDE_1.14.1\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.100.202309141235\tools\arm-none-eabi\include\c++\11.3.1\bits\stl_algobase.h:919:5:constexpr typename __gnu_cxx::__enable_if<std::__is_scalar<_Tp>::__value, void>::__type std::__fill_a1(_ForwardIterator, _ForwardIterator, const _Tp&) [with _ForwardIterator = short unsigned int*; _Tp = int]	2

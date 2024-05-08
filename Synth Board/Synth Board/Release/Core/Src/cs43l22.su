@@ -1,0 +1,12 @@
+../Core/Src/cs43l22.c:353:10:cs43l22_SetFrequency	0	static
+../Core/Src/cs43l22.c:432:10:cs43l22_Reset	0	static
+../Core/Src/cs43l22.c:326:10:cs43l22_SetVolume	16	static
+../Core/Src/cs43l22.c:205:6:cs43l22_DeInit	0	static
+../Core/Src/cs43l22.c:215:10:cs43l22_ReadID	8	static
+../Core/Src/cs43l22.c:364:10:cs43l22_SetMute	16	static
+../Core/Src/cs43l22.c:395:10:cs43l22_SetOutputMode	8	static
+../Core/Src/cs43l22.c:256:10:cs43l22_Pause	16	static
+../Core/Src/cs43l22.c:302:10:cs43l22_Stop	16	static
+../Core/Src/cs43l22.c:274:10:cs43l22_Resume	32	static
+../Core/Src/cs43l22.c:232:10:cs43l22_Play	16	static
+../Core/Src/cs43l22.c:122:10:cs43l22_Init	24	static
